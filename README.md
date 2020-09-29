@@ -19,8 +19,8 @@ First, I Normalized feature data. I also split the data into train and test sets
 I tried two different models and evaluated them using Cross Validation Score. I chose CV to get a good sense of how well our models are actually performing.
 
 I tried two differnet models:
-  1. Decision Tree Classifier
-  2. Logistic Regression
+  ### 1. Decision Tree Classifier
+  ### 2. Logistic Regression
   
 ## Model Performance
 The Logistic Regression model is working better than Decision Tree Model on the test and validation sets.
